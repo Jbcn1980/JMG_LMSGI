@@ -26,7 +26,7 @@ _italic_
 do you want to [see something fun][1]?  
 yes, i want to [see something fun][1].  
 
-[1]:www.zombo.com
+[1]: www.zombo.com
 
 ![the first father][2]
 
