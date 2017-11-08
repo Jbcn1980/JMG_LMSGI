@@ -17,11 +17,9 @@ _italic_
 
 
 do you want to [see something fun][1]?  
-well, do i have [the website for you][2]?  
+yes, i want to [see something fun][1]?  
 
-[1]:www.zombo.com  
-
-[2]:www.stumbleupon.com
+[1]:www.zombo.com
 
 
 ![the first father][3]
