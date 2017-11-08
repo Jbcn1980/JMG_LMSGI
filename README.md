@@ -9,7 +9,7 @@ Trying to open the 3 files, I could open the .html with Mozilla Firefox and see 
 It's very easy. Register at https://github.com/, and put your files on your repository, only need to drop and drag.
 
 #### **EXERCISE C**
-Clicking on your .html file you open it. Copy the URL and paste it to https://rawgit.com/. Later, copy the 'URL for development' and paste it in a new window. If the URL open corrctly, it's ok.
+Clicking on your .html file you open it. Copy the URL and paste it to https://rawgit.com/. Later, copy the 'URL for development' and paste it in a new window. If the URL open correctly, it's ok.
 
 #### **EXERCISE D**
 _italic_
